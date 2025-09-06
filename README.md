@@ -1,4 +1,3 @@
-![Awish Lab Banner](./banner.png)
 # 👋 Hi, I’m Awish-lab(Daphney Ann)  
 
 💡 Passionate **Computer Scientist** with skills in IT, Front end web development, software, and hardware — aspiring to specialize in **Cybersecurity**.  
