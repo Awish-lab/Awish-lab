@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Awish-lab(Daphney Ann)  
+![Banner](./banner.png)
+
 
 💡 Passionate **Computer Scientist** with skills in IT, Front end web development, software, and hardware — aspiring to specialize in **Cybersecurity**.  
 
