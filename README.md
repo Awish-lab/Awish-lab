@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Awish-lab  
+# 👋 Hi, I’m Awish-lab(Daphney Ann)  
 
 💡 Passionate **Computer Scientist** with skills in IT, software, and hardware — aspiring to specialize in **Cybersecurity**.  
 
