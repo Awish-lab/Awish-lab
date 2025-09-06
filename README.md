@@ -28,10 +28,7 @@
 📧 **daphneyannn@gmail.com**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/daphney-ann-a4310b239/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Awish-lab)  
-  
-💼 [LinkedIn – Daphney-Ann](https://www.linkedin.com/in/daphney-ann-a4310b239/)  
-💻 [GitHub](https://github.com/Awish-lab) 
-
+ 
 ## 😄 Pronouns  
 She/Her  
 
