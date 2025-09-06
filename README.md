@@ -18,10 +18,10 @@
 - Web applications with biometric integration  
 - AI/ML projects for real-world problem solving  
 
-## 📫 Reach Me At  
-- Email: **yourname@example.com**  
-- LinkedIn: [Daphney Ann ]([https://www.linkedin.com/in/daphney-ann-a4310b239/))  
-- GitHub: [Awish-lab](https://github.com/Awish-lab)  
+## 📫 Reach Me  
+📧 **daphneyannn@gmail.com**  
+💼 [LinkedIn – Daphney-Ann](https://www.linkedin.com/in/daphney-ann-a4310b239/)  
+💻 [GitHub](https://github.com/Awish-lab) 
 
 ## 😄 Pronouns  
 She/Her  
