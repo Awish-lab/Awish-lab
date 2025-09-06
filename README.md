@@ -1,5 +1,3 @@
-![Banner](https://capsule-render.vercel.app/api?type=wave&color=0:0e75b6,100:ff4b2b&height=200&section=header&text=Daphney%20Ann%20|%20Cybersecurity%20%26%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn)
-
 # 👋 Hi, I’m Awish-lab(Daphney Ann)  
 
 💡 Passionate **Computer Scientist** with skills in IT, Front end web development, software, and hardware — aspiring to specialize in **Cybersecurity**.  
